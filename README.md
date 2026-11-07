@@ -24,7 +24,7 @@ An interactive 6-page Power BI dashboard analysing the 2024 Indian general elect
 Power BI, DAX, Power Query, Data Modelling
 
 ## Data
-Publicly available 2024 Lok Sabha election results. (Add the exact source here once you find it.)
+Publicly available 2024 Lok Sabha election results.
 
 ## How to open
 Download `Election 2024.pbix` and open it in Power BI Desktop (free).
