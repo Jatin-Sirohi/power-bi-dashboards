@@ -1,6 +1,7 @@
 # Live Weather & Air Quality Forecast Dashboard (Power BI)
 
-<img width="1180" height="667" alt="Screenshot 2026-11-07 163919" src="https://github.com/user-attachments/assets/3d9ff388-e2dc-41be-8a44-7a08ffe3b600" />
+<img width="1167" height="657" alt="Screenshot 2026-11-07 184635" src="https://github.com/user-attachments/assets/dbfccf7a-2883-4949-883d-d0b914844d34" />
+
 <img width="1167" height="653" alt="Screenshot 2026-11-06 011234" src="https://github.com/user-attachments/assets/f38a442e-3110-46d5-8f12-305b95046de6" />
 
 
